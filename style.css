@@ -1,0 +1,37 @@
+<style>
+
+    body{
+        background-color:rgb(186, 252, 179);
+        color:white
+        font-family: "Helvetica", sans-serif;
+    }
+    .header{
+        background-color:green;
+        color:white;
+    }
+    #rodgers-pic{
+        padding right:25em;
+        height:100px;
+        width:125px;
+
+    }
+    .big-piece{
+        font-weight:bold;
+
+    }
+    #rodgers-info{
+        font-size:55em:
+        color:white;
+        padding-top:10px
+        padding-bottom:10px;
+    }
+    #espn-link{
+        float:right;
+        margin-left: 10px;
+    }
+    .records{
+        font-family: monospace;
+        color:brown;
+        align:right;
+    }
+    </style>
