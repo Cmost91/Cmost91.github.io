@@ -1,17 +1,18 @@
 
-    body{
-        background-color:rgb(186, 247, 185);
-        color:white
-        font-family: "Helvetica", sans-serif;
-    }
-    .header{
-        background-color:green;
+body {
+        background-color:#8dd88d;
         color:white;
+        font-family:"Helvetica", sans-serif;
+    }
+
+#header{
+        background-color:black;
+        color:white;
+
     }
     #rodgers-pic{
-        padding right:25em;
-        height:100px;
-        width:125px;
+        padding right:25px;
+        width:325px;
 
     }
     .big-piece{
@@ -31,8 +32,7 @@
     .records{
         font-family: monospace;
         color:brown;
-        align:right;
-        font-size:35px;
-}
+        font-size:25px;
+    }
 
          
